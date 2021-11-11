@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFromFile", "DataFromFile\DataFromFile.csproj", "{CEBD0C49-4C12-4382-89A1-65E931CEF437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horoscope", "Horoscope\Horoscope.csproj", "{DBEAE87E-5745-4FAF-AEFA-CDB5F176ABD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chuck", "Chuck\Chuck.csproj", "{606BCE04-B8F9-4515-A084-79E1B0714483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBD0C49-4C12-4382-89A1-65E931CEF437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBD0C49-4C12-4382-89A1-65E931CEF437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBD0C49-4C12-4382-89A1-65E931CEF437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBD0C49-4C12-4382-89A1-65E931CEF437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEAE87E-5745-4FAF-AEFA-CDB5F176ABD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEAE87E-5745-4FAF-AEFA-CDB5F176ABD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEAE87E-5745-4FAF-AEFA-CDB5F176ABD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEAE87E-5745-4FAF-AEFA-CDB5F176ABD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606BCE04-B8F9-4515-A084-79E1B0714483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606BCE04-B8F9-4515-A084-79E1B0714483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606BCE04-B8F9-4515-A084-79E1B0714483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606BCE04-B8F9-4515-A084-79E1B0714483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28BDCBC9-EA71-4B21-882A-E80A810C79B7}
+	EndGlobalSection
+EndGlobal
